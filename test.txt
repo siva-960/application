@@ -1,0 +1,3 @@
+hi this is show 
+Iam trying to develop a simple application to
+demonstrate the git life cycle and .gitignore file
